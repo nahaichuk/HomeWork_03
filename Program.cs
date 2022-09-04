@@ -31,4 +31,4 @@ if (y1 != "" & x1 != "")
 {
     Console.WriteLine($"Установлено значение X:{x1} а Y: {y1}");
 }
-
+//checked
